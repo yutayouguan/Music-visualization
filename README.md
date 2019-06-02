@@ -1,36 +1,18 @@
-## Welcome to GitHub Pages
+# Music-visualization
+音乐可视化播放器
 
-You can use the [editor on GitHub](https://github.com/yutayouguan/Music-visualization/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+演示网址(https://yutayouguan.github.io/Music-visualization/)
 
-### Markdown
+1. 可以选择本地文件进行播放
+2. 网页上的歌曲已经不支持播放
+3. 有三种音乐可视化选项
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+截图如下
 
-```markdown
-Syntax highlighted code block
+![柱状图](https://imgchr.com/i/V843OP)
 
-# HTML
-## 音乐可视化播放器
+![圆点图](https://imgchr.com/i/V841yt)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yutayouguan/Music-visualization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![折线图](https://imgchr.com/i/V84Gef)
